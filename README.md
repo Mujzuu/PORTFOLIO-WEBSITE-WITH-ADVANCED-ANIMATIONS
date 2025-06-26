@@ -42,3 +42,10 @@ style.css for styling
 script.js for behavior and animations
 
 All code followed clean structure, semantic HTML, reusable CSS classes, and modular JavaScript to allow easy updates and scalability.
+
+*OUTPUT*:
+![Image](https://github.com/user-attachments/assets/8d428075-f9d0-4f4f-a404-077c2df10794)
+![Image](https://github.com/user-attachments/assets/5ed778d6-da50-4b4a-a542-16a5d558a956)
+![Image](https://github.com/user-attachments/assets/48351299-bb61-4eb0-add2-75d1f705157a)
+![Image](https://github.com/user-attachments/assets/19e8e1ad-d489-444c-a2db-dc323f00b846)
+![Image](https://github.com/user-attachments/assets/f5722b12-7dc0-4dab-9c69-dfc90907d8ce)
